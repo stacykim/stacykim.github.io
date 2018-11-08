@@ -1,0 +1,14 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+stacy: # replace this with your info
+  name: "Stacy Kim"
+  siterole: "webmaster, developer, copywriter, designer"
+  uri: http://www.astronomy.ohio-state.edu/~sykim/
+  email: "kim.4905@osu.edu"
+  twitter: "@stacyyckim"
+# you can add more authors here

@@ -1,0 +1,16 @@
+---
+layout: page
+title: "Contact"
+meta_title: "Contact and use our contact form"
+#subheadline: "Wufoo-powered contact forms"
+#teaser: "Get in touch with me? Use the contact form."
+permalink: "/contact/"
+header: no
+---
+<h4>Address</h4>
+McPherson Laboratory<br>
+140 West 18th Avenue<br>
+Columbus, OH 43210
+
+<h4>Email</h4>
+sykim [at] astronomy [dot] ohio-state [dot] edu

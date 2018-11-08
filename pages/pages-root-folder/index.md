@@ -1,8 +1,9 @@
 ---
 layout: page
 #layout: frontpage
-header:
-    image: header_unsplash_2-970x.jpg
+header: no
+image:
+    title: me_in_trees.jpg
     pattern: graphy2X.png
 #
 # Use the call for action to show a button on the frontpage
@@ -26,9 +27,7 @@ permalink: /index.html
 homepage: true
 ---
 
-<h1>Hi, my name is Stacy Kim.</h1>
+<h2>Hi! I’m a graduate student at The Ohio State University, and I hunt for the identity of dark matter.</h2> <br>
 
-<h2>I’m a sixth year graduate student at The Ohio State University, and I hunt for the identity of dark matter.</h2> <br>
-
-I am currently working with Annika Peter to narrow down the zoo of possible candidates for the dark matter particle by devising stronger tests of dark matter properties by tracing how they imprint themselves onto astrophysical observables.  In particular, we’re trying to constrain self-interacting dark matter through galaxy clusters as well as scrutinizing the dwarf galaxies orbiting the Milky Way for clues concerning warm dark matter and other dark matter candidates.
+I am working with <a href="https://u.osu.edu/apeter/">Annika Peter</a> to narrow down the zoo of dark matter models by sharpening tests of two key dark matter properties: the small scales at which deviations occur from the canonical cold dark matter paradigm appear, and the existence of dark sector physics.  For more about my work, see the links above.
 

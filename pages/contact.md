@@ -13,4 +13,4 @@ McPherson Laboratory<br>
 Columbus, OH 43210
 
 <h4>Email</h4>
-sykim [at] astronomy [dot] ohio-state [dot] edu
+kim [dot] 4905 [at] osu [dot] edu

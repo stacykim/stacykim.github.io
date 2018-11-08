@@ -2,7 +2,7 @@
 layout: page
 #layout: frontpage
 header:
-    image: window.jpg
+    image: window_masked-sb_me.png
     pattern: graphy2X.png
 #
 # Use the call for action to show a button on the frontpage

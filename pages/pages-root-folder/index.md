@@ -1,10 +1,9 @@
 ---
 layout: page
 #layout: frontpage
-header:
-#    image_fullwidth: me_in_trees.jpg
-    image: me_in_trees-square.jpg
-    pattern: graphy2X.png
+header: 
+    image_fullwidth: me_in_trees.jpg
+#    pattern: graphy2X.png
 #
 # Use the call for action to show a button on the frontpage
 #

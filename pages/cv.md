@@ -211,7 +211,7 @@ You can also download a PDF copy of my CV <a href="https://stacykim.github.io/cv
   <div class="small-2 columns">2016-2018</div>
   <div class="small-10 columns">
     <strong>STEAM Lecture Series Co-Organizer</strong> <br> 
-    Awarded ∼$25K from the STEAM Project (funded by the John Templeton Foundation and the Fuller Theological Seminary) to host a 4-part discussion series on science and theol- ogy. Aided in inviting speakers, organizing seminars, and publicizing for keynote interdis- ciplinary discussions between scientists, philosophers, and theologians on topics spanning love, death, and the rise of AI. <br> <br>
+    Awarded ∼$25K from the <a href="http://thesteamproject.org/">STEAM Project</a> to host a 4-part discussion series on science and theology. Aided in inviting speakers, organizing seminars, and publicizing for keynote interdisciplinary discussions between scientists, philosophers, and theologians on topics spanning love, death, and the rise of AI. <br> <br>
   </div>
 </div>
 
@@ -250,11 +250,11 @@ You can also download a PDF copy of my CV <a href="https://stacykim.github.io/cv
   <div class="small-2 columns"></div>
   <div class="small-10 columns">
     <h4>Supercomputing</h4> (experience with the following systems) <br> <br>
-    <strong>Pleiades cluster</strong> (245,536 cores, 7.24 Pflop/s) at the NASA Ames Research Center <br>
-    <strong>Oakley cluster</strong> (8300 cores, 154 Tflop/s) at the Ohio Supercomputer Center <br>
-    <strong>Ruby cluster</strong> (4800 cores, 125 Tflop/s) at the Ohio Supercomputer Center <br>
-    <strong>Zodiac, Aurora & Halo</strong> (up to 1824 cores, 29 Tflop/s) at the Jet Propulsion Laboratory <br>
-    In-house clusters (e.g. universe, arjuna) at the Department of Astronomy, OSU <br> <br>
+    <strong>Pleiades</strong> (245,536 cores, 7.24 Pflop/s) at the NASA Ames Research Center<br>
+    <strong>Oakley</strong> (8300 cores, 154 Tflop/s) at the Ohio Supercomputer Center <br>
+    <strong>Ruby</strong> (4800 cores, 125 Tflop/s) at the Ohio Supercomputer Center <br>
+    <strong>Zodiac, Aurora & Halo</strong> (up to 1824 cores, 29 Tflop/s) at JPL <br>
+    In-house clusters (e.g. universe, arjuna) at the Dept of Astronomy, OSU <br> <br>
   </div>
 </div>
 

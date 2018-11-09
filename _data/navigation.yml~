@@ -1,6 +1,23 @@
-#- title: Start
-#  url: "/"
-#  side: left
+- title: "Stacy Kim"
+  url: "/"
+  side: left
+
+- title: "Research"
+  url: "/research/"
+  side: right
+
+- title: "CV"
+  url: "/cv/"
+  side: right
+
+- title: "Publications"
+  url: "/publications/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
+
 
 #- title: Getting Started
 #  url: "/getting-started/"
@@ -66,10 +83,7 @@
 #  - title: "Blog Archive"
 #    url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
+#- title: "Search"
+#  url: "/search/"
+#  side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right

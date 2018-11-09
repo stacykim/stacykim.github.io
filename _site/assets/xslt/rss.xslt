@@ -127,10 +127,26 @@
           
             
             
-              <li class="divider"></li>
-              <li><a  href="http://localhost:4000/research/">Research</a></li>
 
-            
+              <li class="divider"></li>
+              <li class="has-dropdown">
+                <a  href="http://localhost:4000/research/">Research</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/research/small_scales/">Problems at Small Scales</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/research/sidm/">Tests for Dark Forces</a></li>
+                    
+                  </ul>
+
+              </li>
             
           
         

@@ -7,21 +7,21 @@ header: no
 widget1:
   title: "Clues at Small Scales"
   url: 'http://stacykim.github.io/research/small_scales/'
-  image: sculptor-eso.jpg
+  image: sculptor-eso_303x303.jpg
   text: 'CDM predicts that the hierarchical, self-similar structure of the universe extends down to earth mass scales, but many alternative models predict a higher mass cutoff.  How low does it go?'
   caption: "Credit: ESO"
   imgurl: "https://www.eso.org/public/news/eso1536/"
 widget2:
   title: "Tests for Dark Forces"
   url: 'http://stacykim.github.io/research/sidm/'
-  image: macsj0025-chandrahst.jpg
+  image: macsj0025-chandrahst_303x303.jpg
   text: 'While non-gravitational interactions between CDM particles are absent---in stark contrast to the Standard Model---interactions are often a key feature of alternative models.  Can we test for these dark forces?'
   caption: "Credit: NASA/ESA/CXC/M Bradac/UCSB/S Allen/Stanford"
   imgurl: "https://www.nasa.gov/multimedia/imagegallery/image_feature_1163.html"
 widget3:
   title: "Giant Planet Formation"
   url: 'https://stacykim.github.io/research/planets/'
-  image: saturn_cassini2017.jpg
+  image: saturn_cassini2017_303x303.jpg
   text: 'As a young gas giant grows, it begins to clear its orbit of gas, creating a gap.  Gas flow across the gap is crucial for its continued growth.  Do magnetic fields help generate the flow?'
   caption: "Credit: NASA/JPL-Caltech/Space Science Institute"
   imgurl: "https://www.nasa.gov/image-feature/jpl/pia20481/up-and-over"
@@ -30,7 +30,7 @@ widget3:
 <div class="row t30">
   <div class="medium-8 columns medium-offset-2">
 
-    <h1>Research</h1>
+    <h1>Research Interests</h1>
     <br>
     Dark matter makes up the overwhelming majority of the matter in the Universe.  Its complex structure and dynamics play an essential role in the evolution of the remaining baryonic matter, explaining the cosmic microwave background, the clustering of galaxy clusters, and the abundance of galaxies, among others.  Observations across a vast range of scales and time point toward the existence of a relatively massive, or "cold", dark matter particle, often called cold dark matter (CDM). <br> <br>
 

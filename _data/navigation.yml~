@@ -5,6 +5,11 @@
 - title: "Research"
   url: "/research/"
   side: right
+  dropdown:
+  - title: "Problems at Small Scales"
+    url: "/research/small_scales/"
+  - title: "Tests for Dark Forces"
+    url: "/research/sidm/"
 
 - title: "CV"
   url: "/cv/"

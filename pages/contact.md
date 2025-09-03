@@ -1,16 +1,18 @@
 ---
-layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-#subheadline: "Wufoo-powered contact forms"
-#teaser: "Get in touch with me? Use the contact form."
-permalink: "/contact/"
-header: no
+title: Contact
+permalink: /contact/
 ---
-<h4>Address</h4>
-McPherson Laboratory<br>
-140 West 18th Avenue<br>
-Columbus, OH 43210
 
-<h4>Email</h4>
-kim [dot] 4905 [at] osu [dot] edu
+Address
+
+Carnegie Observatories <br>
+813 Santa Barbara Street  <br>
+Pasadena, CA 91101  <br>
+
+<b>Email</b>
+
+[skim11 [at] carnegiescience.edu][1]
+
+
+
+[1]: mailto:skim11@carnegiescience.edu

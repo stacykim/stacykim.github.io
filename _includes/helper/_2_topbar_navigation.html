@@ -1,0 +1,21 @@
+<nav id="tnav" class="tnav-horizontal">
+  <ul class="tnav-list">
+
+    <li id="tnav-logo" class="tnav-item"><a href="/" accesskey="1">{{ site.title }}</a></li>
+
+    <li id="tnav-menu" class="tnav-item"><a href="/contact/">Contact</a></li>
+    <li id="tnav-menu" class="tnav-item tnav-hide"><a href="/pubs/">Publications</a></li>
+    <li id="tnav-menu" class="tnav-item tnav-hide"><a href="/about/">About</a></li>
+
+{% comment %}
+    <li id="tnav-menu" class="tnav-item tnav-has-children tnav-allow-hover"><a>About</a>
+      <ul class="tnav-children">
+        <li class="tnav-item"><a href="{{ "/about/" | absolute_url }}">About Me</a></li>
+        <li class="tnav-item"><a href="{{ "/contact/" | absolute_url }}">Contact</a></li>
+        <li class="tnav-item tnav-hide"><a href="{{ "/archive/" | absolute_url }}">Archive</a></li>
+      </ul>
+    </li>
+{% endcomment %}
+  </ul>
+</nav>
+

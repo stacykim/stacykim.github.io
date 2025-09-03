@@ -1,16 +1,11 @@
 ---
-layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-#subheadline: "Wufoo-powered contact forms"
-#teaser: "Get in touch with me? Use the contact form."
-permalink: "/contact/"
-header: no
+title: Contact
+permalink: /contact/
 ---
-<h4>Address</h4>
-McPherson Laboratory<br>
-140 West 18th Avenue<br>
-Columbus, OH 43210
+To use a contact form along with *Simplicity*, I suggest…
 
-<h4>Email</h4>
-sykim [at] astronomy [dot] ohio-state [dot] edu
+…you use one of the following services. They all have a free plan. My first choice would be Wufoo.
+
+- [Wufoo](http://www.wufoo.com/)
+- [formspree.io](http://formspree.io/)
+- [Google Forms](https://www.google.de/intl/en/forms/about/)

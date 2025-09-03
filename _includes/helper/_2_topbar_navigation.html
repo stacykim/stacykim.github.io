@@ -3,19 +3,18 @@
 
     <li id="tnav-logo" class="tnav-item"><a href="/" accesskey="1">{{ site.title }}</a></li>
 
-    <li id="tnav-menu" class="tnav-item"><a href="/contact/">Contact</a></li>
-    <li id="tnav-menu" class="tnav-item tnav-hide"><a href="/pubs/">Publications</a></li>
-    <li id="tnav-menu" class="tnav-item tnav-hide"><a href="/about/">About</a></li>
+    <li id="tnav-menu" class="tnav-item tnav-hide"><a href="/contact/">contact</a></li>
+    <li id="tnav-menu" class="tnav-item tnav-hide"><a href="/cv.pdf">cv</a></li>
 
-{% comment %}
-    <li id="tnav-menu" class="tnav-item tnav-has-children tnav-allow-hover"><a>About</a>
+    <li id="tnav-menu" class="tnav-item tnav-has-children tnav-allow-hover"><a>research</a>
       <ul class="tnav-children">
-        <li class="tnav-item"><a href="{{ "/about/" | absolute_url }}">About Me</a></li>
-        <li class="tnav-item"><a href="{{ "/contact/" | absolute_url }}">Contact</a></li>
-        <li class="tnav-item tnav-hide"><a href="{{ "/archive/" | absolute_url }}">Archive</a></li>
+        <li class="tnav-item"><a href="{{ "/research/" | absolute_url }}">what i do</a></li>
+        <li class="tnav-item"><a href="{{ "/team/" | absolute_url }}">my team</a></li>
+        <li class="tnav-item"><a href="{{ "/pubs/" | absolute_url }}">publications</a></li>
       </ul>
     </li>
-{% endcomment %}
+
+    <li id="tnav-menu" class="tnav-item"><a href="/about/">about</a></li>
   </ul>
 </nav>
 

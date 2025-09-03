@@ -4,8 +4,17 @@
 - name: 'About'
   url: '/about/'
 
+- name: 'Research'
+  url: '/research/'
+
+- name: 'My Team'
+  url: '/team/'
+
 - name: 'Publications'
   url: '/pubs/'
+
+- name: 'CV'
+  url: '/cv.pdf'
 
 - name: 'Contact'
   url: '/contact/'

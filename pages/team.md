@@ -5,7 +5,7 @@ permalink:  /team/
 
 I'm incredibly lucky to be working with a group of talented young scientists.
 
-Here are folks I have had the privillege to supervise or co-supervise.  Daggers denote refereed or submitted papers (<span style="color: red;">&dagger;</span>) or advanced drafts  (<span style="color: gray;">&dagger;</span>) we are planning to submit soon. Stay in touch! <samp>:)</samp>
+Here are folks I have had the privillege to supervise or co-supervise.  Daggers denote refereed or submitted papers (<span style="color: red;">&dagger;</span>) or advanced drafts  (<span style="color: gray;">&dagger;</span>) we are planning to submit soon. 
 
 <br>
 <kbd><b>Postdocs</b></kbd>
